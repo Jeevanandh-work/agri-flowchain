@@ -1,0 +1,17 @@
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Blockchain
+blockchain/cache/
+blockchain/artifacts/
+blockchain/deployment.json
+
+# Backend
+backend/uploads/
+backend/logs/
+
+# Frontend
+frontend/build/
+frontend/.env.local
