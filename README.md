@@ -552,8 +552,9 @@ Built with ❤️ for transparent supply chains
 
 For issues and questions:
 - Open an issue on GitHub
-- Contact: your@email.com
+- Contact: jeevanandh.work@gmail.com
 
 ---
 
 **Ready for hackathons, college reviews, and portfolio showcases!** 🚀
+
